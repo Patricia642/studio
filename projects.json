@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "ÉVÉNEMENT",
+    "images": [
+      "./nassif-patricia-portfolio/Assets/graduation/img4.JPG",
+      "./nassif-patricia-portfolio/Assets/graduation/img1.JPG",
+      "./nassif-patricia-portfolio/Assets/graduation/img2.JPG",
+      "./nassif-patricia-portfolio/Assets/graduation/img7.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img9.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img12.JPG",
+      "./nassif-patricia-portfolio/Assets/graduation/img8.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img5.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img14.JPG",
+      "./nassif-patricia-portfolio/Assets/graduation/img10.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img11.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img13.JPG",
+      "./nassif-patricia-portfolio/Assets/graduation/img16.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img17.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img19.jpg",
+      "./nassif-patricia-portfolio/Assets/graduation/img20.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "GRADUATION",
+    "images": [
+      "./nassif-patricia-portfolio/Assets/nature-morte/graduation-jey.png",
+      "./nassif-patricia-portfolio/Assets/nature-morte/graduation-patty1.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "SPORT",
+    "images": [
+      "./nassif-patricia-portfolio/Assets/video/sport1.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ANIMAUX",
+
+    "images": [
+      "./nassif-patricia-portfolio/Assets/web/animaux2.png",
+      "./nassif-patricia-portfolio/Assets/web/animaux3.png",
+      "./nassif-patricia-portfolio/Assets/web/animaux4.png",
+      "./nassif-patricia-portfolio/Assets/web/animaux6.png",
+      "./nassif-patricia-portfolio/Assets/web/animaux7.png",
+      "./nassif-patricia-portfolio/Assets/web/animaux8.png"
+
+    ]
+  }
+]
